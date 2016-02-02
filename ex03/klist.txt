@@ -1,0 +1,5 @@
+Credentials cache: API:16985
+        Principal: edorland@42.FR
+
+  Issued                Expires               Principal
+Jan 30 10:41:03 2016  Feb  6 10:40:11 2016  krbtgt/42.FR@42.FR
